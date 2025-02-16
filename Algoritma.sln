@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35806.99 d17.13
+VisualStudioVersion = 17.13.35806.99
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palidrom_Sayisi", "Palidrom_Sayisi\Palidrom_Sayisi.csproj", "{2B131BC7-5AEE-41AB-B29A-FA29B0431FD0}"
 EndProject
@@ -11,6 +11,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 	ProjectSection(SolutionItems) = preProject
 		README.md = README.md
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnUzunOrtakOnek", "EnUzunOrtakOnek\EnUzunOrtakOnek.csproj", "{5719F820-E7F7-4ADE-8D9B-87073675547F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,6 +28,10 @@ Global
 		{649F8A16-9248-4F9F-90A9-07EF2405DCE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{649F8A16-9248-4F9F-90A9-07EF2405DCE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{649F8A16-9248-4F9F-90A9-07EF2405DCE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5719F820-E7F7-4ADE-8D9B-87073675547F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5719F820-E7F7-4ADE-8D9B-87073675547F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5719F820-E7F7-4ADE-8D9B-87073675547F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5719F820-E7F7-4ADE-8D9B-87073675547F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
